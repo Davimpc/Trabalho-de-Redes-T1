@@ -8,6 +8,8 @@
 
 -rodar VScode como adm
 
+-para testar o HTTP: criar um terminal e executar python -m http.server 8080
+
 **ORDEM PARA RODAR OS CODIGOS**
 
 -API mock
